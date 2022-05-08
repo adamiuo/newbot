@@ -1205,7 +1205,7 @@ if photo.total_count > 0 then
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = 'مطور السورس 🔰', url = 't.me/bbbc6'}, 
+{text = '⸢𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑⸥🔰', url = 't.me/bbbc6'}, 
 },
 }
 local msgg = msg_id/2097152/0.5
@@ -11111,8 +11111,8 @@ if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or te
 local user_info = LuaTele.getUser(msg.sender.user_id)
 local first_name = user_info.first_name
 local RinkBot = msg.Name_Controller
-photo = "https://t.me/aslak8/142"
-local Name = '* •━═━═━═『𝙵𝚘𝚏𝚊』═━═━═━•\n*᥀︙ [⋆⃟➼𝐀𝐇𝐌𝐄𝐃 𝐊𝐇𝐀𝑳𝐄𝐃 ꕸ](t.me/bbbc6)*\n*᥀︙ [𓆩 𝐅𝐎𝐅𝐀 𝐁𝐎𝐓ｌ➝ ˛⁽♥₎ 𓆪](t.me/Fofahj_bot)*\n•━═━═━═『𝙵𝚘𝚏𝚊』═━═━═━•*'
+photo = "https://t.me/glalkmeso/26164"
+local Name = '* •━═━═━═『𝙵𝚘𝚏𝚊』═━═━═━•\n*᥀︙ [⋆⃟➼𝐀𝐇𝐌𝐄𝐃 𝐊𝐇𝐀𝑳𝐄𝐃 ꕸ](t.me/bbbc6)*\n*᥀⌁ ＣＨＡＮＮＥＬ ’♥˛⁽♥₎ 𓆪](t.me/glalkmeso)*\n•━═━═━═『𝙵𝚘𝚏𝚊』═━═━═━•*'
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
@@ -16425,7 +16425,6 @@ end
 
 luatele.run(CallBackLua)
  
-
 
 
 
